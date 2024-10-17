@@ -1,6 +1,6 @@
 
 **1. Introduction**
-![Alt text]([elative/path/to/image.png](https://github.com/prabal-17/AI-Web-Scraping-with-Ollama/blob/main/llama.png))
+![Alt text](./llama.png))
 
 The AI Web Scraper is a Streamlit-based application that allows users to scrape content from websites and extract specific information using AI-powered parsing. This report provides a comprehensive overview of the application's architecture, components, and functionality.
 
